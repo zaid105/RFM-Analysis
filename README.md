@@ -10,9 +10,26 @@ Frequency:<br>
 <br><br>
 Monetary:<br>
     Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time. Big spenders should usually be treated differently than customers who spend little. Looking at monetary divided by frequency indicates the average purchase amount – an important secondary factor to consider when segmenting customers. 
+
+
+## Project Objective
+The objective of this project is to perform RFM analysis on a dataset containing transactional data and derive actionable insights to drive business decisions. By applying RFM analysis techniques, we aim to:
+
+Segment customers based on their transaction history.
+Identify high-value customer segments for targeted marketing efforts.
+Analyze customer behavior patterns and preferences.
+Optimize resource allocation and marketing strategies to maximize customer retention and profitability.
+
+## Dataset
+The dataset used in this project consists of transactional data collected over a specific period, including information such as customer IDs, transaction dates, and transaction amounts. Each row in the dataset represents a unique transaction made by a customer.
+
+
+    
 ## Why is it needed?
 RFM Analysis is a marketing framework that is used to understand and analyze customer behaviour based on the above three factors RECENCY, Frequency, and Monetary.
 
 The RFM Analysis will help the businesses to segment their customer base into different homogenous groups so that they can engage with each group with different targeted marketing strategies.
 <br><br><br>
 ![image](https://github.com/zaid105/RFM-Analysis/assets/142628044/499717df-3b27-43ef-9271-80ff75c3c1cd)
+
+
